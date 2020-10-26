@@ -2,6 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
+<meta name="description" content="Web Project">
+<meta name="keywords" content="HTML, CSS, JavaScript">
 <title>Home</title>
 	<link href="Style.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
